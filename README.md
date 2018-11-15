@@ -1,3 +1,5 @@
-## Create React App Visualization
+## Example Map Visualization
 
-Read more about this assessment here
+Example Map Visualization
+
+Author: muzammil-mohammed-eog-react-assessments
